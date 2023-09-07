@@ -1,4 +1,2 @@
 subscribe
 next comit
-
-upd for revert
